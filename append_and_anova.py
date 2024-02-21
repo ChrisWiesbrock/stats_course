@@ -12,6 +12,8 @@ for i in range(len(files)):
     
 all_cities.columns=city.columns
 
+#all_cities=all_cities.iloc[::200]
+
     
 
 
